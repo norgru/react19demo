@@ -1,0 +1,16 @@
+config
+www
+client
+node_modules/
+lib/
+.vscode/settings.json
+.gitlab/merge_request_templates
+CHANGELOG.md
+.cache/
+public/
+_test/
+_test/**/test-results
+src/gatsby-types.d.ts
+src/generated/
+src/assets/lottieAnimations
+README.md
